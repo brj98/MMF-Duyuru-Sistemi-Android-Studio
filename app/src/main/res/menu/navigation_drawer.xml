@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/navigation_about"
+        android:title="Hakkımızda"
+        android:icon="@drawable/ic_about"/>
+
+    <item android:id="@+id/navigation_color"
+        android:title="Temalar"
+        android:icon="@drawable/ic_color"/>
+
+    <item android:id="@+id/navigation_website"
+        android:title="Website"
+        android:icon="@drawable/ic_website"/>
+
+    <item android:id="@+id/navigation_developer"
+        android:title="Yapımcılar"
+        android:icon="@drawable/ic_developer"/>
+
+
+
+</menu>

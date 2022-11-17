@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MMF Duyuru Sistemi</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+
+    <string name="about_college">Kastamonu Üniversitesi, Kastamonu, Türkiye de yer alan, 2006 yılında kurulmuş bir devlet üniversitesidir. Kastamonu Üniversitesi bugün 13 Fakülte, 2 Enstitü, 4 Yüksekokul, 13 meslek yüksekokulu, 35 bölüm ile akademik etkinliklerini sürdürmektedir. Yerleşkelerinde Osmanlı döneminden kalan tarihi binalarda hâlen eğitim yapılmaktadır.Kastamonu Üniversitesi, 16.894 lisans ve 4452 lisansüstü öğrenci ve 810 öğretim elemanı ile eğitim hayatını sürdürmektedir.</string>
+
+    <string-array name="theme">
+
+        <item>System Default</item>
+        <item>Dark</item>
+        <item>Light</item>
+
+    </string-array>
+
+</resources>
